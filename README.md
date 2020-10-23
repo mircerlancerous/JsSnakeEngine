@@ -1,7 +1,7 @@
 # JsSnakeEngine
 A Battlesnake engine which runs in your web browser
 
-Battlesnake is a fun way to try out your API development skills, and put your stategic coding to the test against other developers. Check out Battlesnake at https://dev.offthebricks.com/Battlesnake/api/v1
+Battlesnake is a fun way to try out your API development skills, and put your stategic coding to the test against other developers. Check out Battlesnake at https://play.battlesnake.com/
 
 The live Battlesnake engine does not provide many opportunities for testing your snakes, and measuring response times. This javascript version allows you to use the browser's dev tools to view API response times, and step your snake through the game one step at a time.
 
